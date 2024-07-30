@@ -45,18 +45,4 @@ O repositório contém os seguintes arquivos:
   ```
 - As perguntas devem ser finalizadas com uma quebra de linha para serem corretamente processadas.
 
-## Contribuições
-
-Contribuições são bem-vindas! Se você deseja melhorar o programa ou adicionar novas funcionalidades, sinta-se à vontade para abrir um pull request.
-
-## Licença
-
-Este projeto está licenciado sob a [MIT License](LICENSE).
-
-## Contato
-
-Para mais informações, entre em contato através do e-mail: [seu-email@exemplo.com](mailto:seu-email@exemplo.com).
-
 ---
-
-Esperamos que você aproveite o uso do SAE-SBD2!
